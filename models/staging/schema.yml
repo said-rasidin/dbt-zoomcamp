@@ -6,7 +6,8 @@ sources:
 
       tables: 
         - name: green_tripdata_partitoned
-        - name: yellow_tripdata_partitoned 
+        - name: yellow_tripdata_partitoned
+        - name: fhv_tripdata
   
 models:
     - name: stg_green_trip_data
